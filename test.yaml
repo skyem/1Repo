@@ -1,0 +1,6 @@
+region:
+  title: Region
+  description: Which region
+  type: string
+  enum:
+    - usCentral1
